@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="800mm"
+   viewBox="0 0 600 800"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="tubing_holder_v2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.63529438"
+     inkscape:cx="689.44416"
+     inkscape:cy="127.49995"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect118-0"
+       style="fill:none;stroke:#000000;stroke-width:0.499853;stroke-dasharray:none;stroke-opacity:1"
+       d="M 65.249927,50.249929 V 129.7871 h 0.02067 v 540.42577 h -0.02067 v 79.3124 h 0.1607 v 0.2041 H 84.89401 v -69.8603 h 30.48328 v 69.8603 h 19.48338 v -69.8603 h 30.48226 v 69.8603 h 19.48338 v -69.8603 h 30.48277 v 69.8603 h 19.48338 v -69.8603 h 30.48277 v 69.8603 h 19.48339 v -69.8603 h 30.48276 v 69.8603 h 19.48338 v -69.8603 h 30.48225 v 69.8603 h 19.4839 v -69.8603 h 30.48277 v 69.8603 h 19.48339 v -69.8603 h 30.48226 v 69.8603 h 19.48337 v -69.8603 h 30.48329 v 69.8603 h 10.10391 v 0.0207 h 9.54018 v -79.53666 h -0.0207 V 130.0124 h 0.0201 V 50.250446 h -9.54018 v 0.02067 H 515.10599 V 120.13091 H 484.6227 V 50.271115 H 465.13933 V 120.13091 H 434.65707 V 50.271115 H 415.17368 V 120.13091 H 384.69091 V 50.271115 h -19.4839 V 120.13091 H 334.72476 V 50.271115 H 315.24138 V 120.13091 H 284.75862 V 50.271115 H 265.27523 V 120.13091 H 234.79246 V 50.271115 H 215.30908 V 120.13091 H 184.82631 V 50.271115 H 165.34293 V 120.13091 H 134.86067 V 50.271115 H 115.37729 V 120.13091 H 84.89401 V 50.271115 H 74.790615 v -0.02119 z" />
+    <rect
+       style="fill:none;stroke:#cc0000;stroke-width:0.267493;stroke-opacity:1"
+       id="rect881"
+       width="439.73251"
+       height="529.73248"
+       x="80.133751"
+       y="135.13376" />
+  </g>
+</svg>

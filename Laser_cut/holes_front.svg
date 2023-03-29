@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="holes_front.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53354917"
+     inkscape:cx="513.54217"
+     inkscape:cy="284.88471"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#cc0000;stroke-width:1.17567"
+       id="rect788"
+       width="618.82434"
+       height="98.824333"
+       x="0.58783382"
+       y="0.58783382" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.985914;stroke-dasharray:none;stroke-opacity:1"
+       id="path950"
+       cx="79.5"
+       cy="40"
+       r="9.0070429" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="path952"
+       cx="119.56001"
+       cy="40.060017"
+       rx="9.0600157"
+       ry="9.0600166" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.931458;stroke-dasharray:none;stroke-opacity:1"
+       id="path954"
+       cx="156.5"
+       cy="40"
+       rx="6.0342712"
+       ry="6.0342708" />
+  </g>
+</svg>
